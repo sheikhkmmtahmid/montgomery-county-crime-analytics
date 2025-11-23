@@ -1,4 +1,4 @@
-Montgomery County Crime Analytics — End-to-End Data Science Project
+Montgomery County Crime Analytics: End-to-End Data Science Project
 
 A complete analytics and machine-learning workflow for real Montgomery County (USA) crime incident data.
 This project includes data cleaning, spatial and temporal analysis, classification, clustering, forecasting, and an interactive dashboard.
